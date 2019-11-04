@@ -4,12 +4,12 @@ This repository provides the instances of investment costs used to compute the t
 
 [1] Transmission Line Cost (cl_{ij,y,c}): composed by the sum between the cost of conductor (cd_{c}) and structure (Cst_{y}), suche as tower, insulators, ground, etc., for each voltage magnitude level.
 
-	Table 1: Conductor Cost (cd_{c}, \forall c \in \eta)
+Table 1: Conductor Cost (cd_{c}, \forall c \in \eta)
 	
-	    |	ID   |  Cost [MUS$/km]  |
-	    -----------------------------
-	    |	C1   |       0.120      |
-	    |	C2   |       0.189      |
+|  ID   |  Cost [MUS$/km]  |
+-----------------------------
+|  C1   |       0.120      |
+|  C2   |       0.189      |
 	
 	
 	Table 2: Transmission Structure Cost (Cst_{y}, \forall y \in \Upsilon)
